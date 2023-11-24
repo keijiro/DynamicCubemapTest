@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "16.0.4",
+    "jp.keijiro.danish-statues": "1.0.0",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.shadergraphassets": "2.5.2"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
